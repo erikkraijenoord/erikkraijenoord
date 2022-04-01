@@ -3,11 +3,14 @@ Back-end engineer with a passion to build automated applications to improve prod
 
 #### Come and find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/f-kraijenoord-252307190)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18658477/erik-kraijenoord)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:erikkraijenoord@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Erikkraijenoord)
 
+
 ##### Short story about me
 - 👋 Hi, I’m Erik Kraijenoord
+- 🏢 I'm currently working for [@Outhands](https://github.com/outhands)
 - 👀 I’m interested in PHP, MySQL, Linux & Security
 - 🌱 I’m currently learning to build automated applications
 - 📫 How to reach me see options above, 
