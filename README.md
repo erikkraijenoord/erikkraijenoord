@@ -2,9 +2,9 @@
 Back-end engineer with a passion to build automated applications to improve productivity! It has become a mission to me to create questions into running automated tasks without a single human interaction! 
 
 #### Come and find me
-![https://nl.linkedin.com/in/f-kraijenoord-252307190](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![erikkraijenoord@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![https://t.me/Erikkraijenoord](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/f-kraijenoord-252307190)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:erikkraijenoord@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Erikkraijenoord)
 
 ##### Short story about me
 - 👋 Hi, I’m Erik Kraijenoord
